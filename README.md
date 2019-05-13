@@ -14,8 +14,9 @@
 Guo, W.(2019). Easy Plant Phenotyping by using Image processing and machine learning techniques, January 24, 2019, [IPPN Imaging Workgroup Webinars](https://www.plant-phenotyping.org/index.php?index=782)
 
 
-### Tools and documents (On Going)
+### Useful information part 4 (Tools and documents?)
 1. UAVPP, Breeder-Friendly-Plant-Phenotyping-tools for UAV, [Wiki page](https://github.com/oceam/UAVPP/wiki/)
+2. How to use python easliy, Install Anaconda and opencv, [document] ()
 2. EasyPCC_V2, [source code & software](https://github.com/oceam/EasyPCC_V2)
 
 ## Maintainers
