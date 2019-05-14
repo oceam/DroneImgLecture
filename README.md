@@ -8,6 +8,7 @@
 
 ### Useful information part 2 (what to measure?)
 1. Chapman, S.C., Zheng, B., Potgieter, A., Guo, W., Baret, F., Liu, S., Madec, S., Solan, B., George-Jaeggli, B., Hammer, G., Jordan, D.(2018). [Visible, near infrared, and thermal spectral radiance on-board UAVs for high throughput phenotyping of plant breeding trials](https://www.taylorfrancis.com/books/9780429775222/chapters/10.1201/9780429431180-25). In Thenkabail, P.S., Lyon, J.G., Huete, A.(Eds.). Vol(3),Biophysical and Biochemical Characterization and Plant Species Studies. Hyperspectral Remote Sensing of Vegetation, Second Edition, Four Volume, CRC Press. ISBN 9781138066250. Charpter available [here](https://www.researchgate.net/publication/332394918_Visible_Near_Infrared_and_Thermal_Spectral_Radiance_On-Board_UAVs_for_High-Throughput_Phenotyping_of_Plant_Breeding_Trials)
+2. [PrecisionMapper](https://www.precisionmapper.com/algorithms/)
 
 ### Useful information part 3 (how to measure?)
 1. Video at Youtube: Part of today's lecture contents (machine learing and image processing):   
