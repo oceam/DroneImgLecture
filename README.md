@@ -17,7 +17,7 @@ Guo, W.(2019). Easy Plant Phenotyping by using Image processing and machine lear
 
 ### Useful information part 4 (Tools and documents?)
 1. UAVPP, Breeder-Friendly-Plant-Phenotyping-tools for UAV, [Wiki page](https://github.com/oceam/UAVPP/wiki/)
-2. How to use python easliy, Install Anaconda and opencv, [document] (https://github.com/oceam/DroneImgLecture/blob/master/installAnaconda.pdf)
+2. How to use python easliy, Install Anaconda and opencv, [document](https://github.com/oceam/DroneImgLecture/blob/master/installAnaconda.pdf)
 3. How to segment crop(or any targets) from background:
     1. Threshold based method: [opencv tutorial](https://docs.opencv.org/3.4.3/d7/d4d/tutorial_py_thresholding.html)
     2. Machine learning based method: EasyPCC_V2, [source code & software](https://github.com/oceam/EasyPCC_V2)
